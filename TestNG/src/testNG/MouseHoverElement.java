@@ -47,7 +47,7 @@ System.out.println("credit cards links are not found and working");
 	}
 @AfterTest
 public void exit() {
-	//driver.quit();
+	driver.quit();
 	
 }
 	
